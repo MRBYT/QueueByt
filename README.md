@@ -115,11 +115,12 @@ Overall, QueueByt serves as a scalable solution for competitive ecosystems aimin
     * You must have the “Manage Server” permission in the Discord server where you want to add QueueByt. This permission is necessary to authorize and configure the bot properly.
 2. Essential Bot Permissions
     * When adding QueueByt via the invite link, ensure you grant the following permissions:
-   ```sh
-              Manage Roles – to assign and manage user roles related to queues and tournaments.
-              Send Messages – for the bot to communicate in designated channels.
-              Use Slash Commands – to allow interaction through slash commands like /setup and /help.
-              Other permissions included in the invite will be requested automatically. Avoid removing any essential permissions after installation.
+   ```
+        Manage Roles – to assign and manage user roles related to queues and tournaments.
+        Send Messages – for the bot to communicate in designated channels.
+        Use Slash Commands – to allow interaction through slash commands like /setup and /help.
+        Other permissions included in the invite will be requested automatically. 
+        Avoid removing any essential permissions after installation.
    ```
 3. Server Environment
     * Avoid adding QueueByt to unmoderated servers or NSFW (Not Safe For Work) channels, as this may cause functionality restrictions or unexpected behavior.
@@ -136,20 +137,7 @@ Follow these steps to correctly install QueueByt in your Discord server:
     * Confirm you can configure roles and channels as needed for bot setup.
 
 2. Add QueueByt to Your Server [https://QueueByt.com](https://discord.com/oauth2/authorize?client_id=1396962875523858452&scope=applications.commands%20bot&permissions=536737213566)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/MRBYT/QueueByt.git
-   ```
 
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-5. Change git remote url to avoid accidental pushes to base project
-   ```sh
-   git remote set-url origin MRBYT/QueueByt
-   git remote -v # confirm the changes
-   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
