@@ -61,23 +61,23 @@
 </details>
 
 
-
+<!-- Currently a Comment Will need to remove post the project is completed and update the below accordingly
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 [![QueueByt Screen Shot][QueueByt-screenshot]](https://example.com)
-
+-->
 QueueByt aims to empower competitive gaming communities by automating tedious coordination tasks, ensuring smooth event execution, and enhancing the overall user experience. This tool fosters organized, engaging, and scalable esports environments, encouraging active participation and growth.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
+<!-- Currently a Comment Will need to remove post the project is completed and update the below accordingly
 ### Built With
 
 This project leverages a robust and modern tech stack to deliver high performance, scalability, and seamless user experience. The core technologies include:
 
-<!-- Currently a Comment Will need to remove post the project is completed and update the below accordingly
+
 
 * [![Python][Python]][Python-url]
 * [![React][React]][React-url]
