@@ -72,19 +72,13 @@ QueueByt is a Discord bot specifically engineered to streamline the process of s
 QueueByt functions as an infrastructure tool that integrates seamlessly with Discord servers, offering customizable queue systems, automated match pairing, and real-time registration tracking. The bot is particularly suited for esports organizations, gaming leagues, and community managers seeking to reduce administrative overhead and enhance the participant experience.
 
 Key features typically include:
-```
-- Automated Scrim Scheduling: 
-Enables teams to join or create scrim queues based on game titles, ranks, or availability.
-- Tournament Booking Tools: 
-Facilitates event registration, match generation, and bracket progression without requiring external platforms.
-- Role & Permission Integration: 
-Ensures that user access and actions are governed by server roles, preserving order and security.
-- Real-Time Notifications: 
-Provides timely alerts for upcoming matches, registration deadlines, and match confirmations.
-- Admin Dashboard or Commands: 
-Offers moderators and organizers granular control over queues, time slots, and participant data.
 
-```
+* Automated Scrim Scheduling: Enables teams to join or create scrim queues based on game titles, ranks, or availability.
+* Tournament Booking Tools: Facilitates event registration, match generation, and bracket progression without requiring external platforms.
+* Role & Permission Integration: Ensures that user access and actions are governed by server roles, preserving order and security.
+* Real-Time Notifications: Provides timely alerts for upcoming matches, registration deadlines, and match confirmations.
+* Admin Dashboard or Commands: Offers moderators and organizers granular control over queues, time slots, and participant data.
+
 Overall, QueueByt serves as a scalable solution for competitive ecosystems aiming to foster organized, fair, and efficient gameplay environments within Discord.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
