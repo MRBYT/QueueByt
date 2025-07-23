@@ -205,7 +205,8 @@ See the [open issues](https://github.com/MRBYT/QueueByt/issues) for a full list 
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+If you have a suggestion that would make QueueByt better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
@@ -235,6 +236,10 @@ Distributed under the CC0 1.0 Universal. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
+
+You’re encouraged to join the [**Support Server**](https://discord.gg/) to chat directly with the team and other contributors. It’s a great place to provide suggestions, ask questions, get feedback, and stay updated.
+
+Thank you for choosing **QueueByt** — we’re excited to support your competitive journey!
 
 Your Name - [@MRBYT3](https://twitter.com/MRBYT3) - pratapbhanu389@gmail.com
 
