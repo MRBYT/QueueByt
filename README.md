@@ -67,25 +67,15 @@
 
 [![QueueByt Screen Shot][QueueByt-screenshot]](https://example.com)
 
-QueueByt is a Discord bot specifically engineered to streamline the process of scrim registration and tournament booking within competitive gaming communities. Designed for automation and operational efficiency, QueueByt eliminates the need for manual coordination by providing a centralized, intuitive interface for scheduling matches, managing team registrations, and organizing tournament brackets.
-
-QueueByt functions as an infrastructure tool that integrates seamlessly with Discord servers, offering customizable queue systems, automated match pairing, and real-time registration tracking. The bot is particularly suited for esports organizations, gaming leagues, and community managers seeking to reduce administrative overhead and enhance the participant experience.
-
-Key features typically include:
-
-* Automated Scrim Scheduling: Enables teams to join or create scrim queues based on game titles, ranks, or availability.
-* Tournament Booking Tools: Facilitates event registration, match generation, and bracket progression without requiring external platforms.
-* Role & Permission Integration: Ensures that user access and actions are governed by server roles, preserving order and security.
-* Real-Time Notifications: Provides timely alerts for upcoming matches, registration deadlines, and match confirmations.
-* Admin Dashboard or Commands: Offers moderators and organizers granular control over queues, time slots, and participant data.
-
-Overall, QueueByt serves as a scalable solution for competitive ecosystems aiming to foster organized, fair, and efficient gameplay environments within Discord.
+QueueByt aims to empower competitive gaming communities by automating tedious coordination tasks, ensuring smooth event execution, and enhancing the overall user experience. This tool fosters organized, engaging, and scalable esports environments, encouraging active participation and growth.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 ### Built With
+
+This project leverages a robust and modern tech stack to deliver high performance, scalability, and seamless user experience. The core technologies include:
 
 * [![Python][Python]][Python-url]
 * [![React][React]][React-url]
@@ -105,8 +95,19 @@ Overall, QueueByt serves as a scalable solution for competitive ecosystems aimin
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+QueueByt is a Discord bot specifically engineered to streamline the process of scrim registration and tournament booking within competitive gaming communities. Designed for automation and operational efficiency, QueueByt eliminates the need for manual coordination by providing a centralized, intuitive interface for scheduling matches, managing team registrations, and organizing tournament brackets.
+
+QueueByt functions as an infrastructure tool that integrates seamlessly with Discord servers, offering customizable queue systems, automated match pairing, and real-time registration tracking. The bot is particularly suited for esports organizations, gaming leagues, and community managers seeking to reduce administrative overhead and enhance the participant experience.
+
+Key features typically include:
+
+* Automated Scrim Scheduling: Enables teams to join or create scrim queues based on game titles, ranks, or availability.
+* Tournament Booking Tools: Facilitates event registration, match generation, and bracket progression without requiring external platforms.
+* Role & Permission Integration: Ensures that user access and actions are governed by server roles, preserving order and security.
+* Real-Time Notifications: Provides timely alerts for upcoming matches, registration deadlines, and match confirmations.
+* Admin Dashboard or Commands: Offers moderators and organizers granular control over queues, time slots, and participant data.
+
+Overall, QueueByt serves as a scalable solution for competitive ecosystems aiming to foster organized, fair, and efficient gameplay environments within Discord.
 
 ### Prerequisites
 
