@@ -111,7 +111,7 @@ Key features typically include:
 
 Overall, QueueByt serves as a scalable solution for competitive ecosystems aiming to foster organized, fair, and efficient gameplay environments within Discord.
 
-### Prerequisites
+## Prerequisites
 
 1. Discord Account with Appropriate Permissions
     * You must have the “Manage Server” permission in the Discord server where you want to add QueueByt. This permission is necessary to authorize and configure the bot properly.
@@ -130,7 +130,7 @@ Overall, QueueByt serves as a scalable solution for competitive ecosystems aimin
 4. Discord Client
     * A Discord client capable of using slash commands (Discord desktop app, browser version, or mobile app with updated features).
 
-### Installation
+## Installation
 
 Follow these steps to correctly install QueueByt in your Discord server:
 
