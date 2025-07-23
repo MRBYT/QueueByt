@@ -158,8 +158,6 @@ Follow these steps to correctly install QueueByt in your Discord server:
     ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
