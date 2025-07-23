@@ -100,7 +100,7 @@ Overall, QueueByt serves as a scalable solution for competitive ecosystems aimin
 [Python-url]: https://www.python.org/
 [React]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[TypeScript]: https://img.shields.io/badge/typescript-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[TypeScript]: https://img.shields.io/badge/typescript-35495E?style=for-the-badge&logo=typescript&logoColor=4FC08D
 [TypeScript-url]: https://www.typescriptlang.org/
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
