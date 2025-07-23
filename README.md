@@ -111,6 +111,8 @@ Key features typically include:
 
 Overall, QueueByt serves as a scalable solution for competitive ecosystems aiming to foster organized, fair, and efficient gameplay environments within Discord.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Prerequisites
 
 1. Discord Account with Appropriate Permissions
@@ -129,6 +131,8 @@ Overall, QueueByt serves as a scalable solution for competitive ecosystems aimin
     * The server should ideally have a clear structure for roles and channels to facilitate queue and tournament management.
 4. Discord Client
     * A Discord client capable of using slash commands (Discord desktop app, browser version, or mobile app with updated features).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Installation
 
@@ -152,6 +156,8 @@ Follow these steps to correctly install QueueByt in your Discord server:
       - Assign channels for queue and tournament activities
       - Set up roles for participants and admins
     ```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
