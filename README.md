@@ -1,11 +1,11 @@
 
 <a id="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][https://github.com/MRBYT/QueueByt/graphs/contributors]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![Unlicense License][license-shield]][license-url]
+[![Unlicense License][license-shield]][https://github.com/MRBYT/QueueByt/blob/main/LICENSE]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
