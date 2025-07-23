@@ -115,24 +115,32 @@ Overall, QueueByt serves as a scalable solution for competitive ecosystems aimin
     * You must have the “Manage Server” permission in the Discord server where you want to add QueueByt. This permission is necessary to authorize and configure the bot properly.
 2. Essential Bot Permissions
     * When adding QueueByt via the invite link, ensure you grant the following permissions:
-          ```
+   ```sh
               Manage Roles – to assign and manage user roles related to queues and tournaments.
               Send Messages – for the bot to communicate in designated channels.
               Use Slash Commands – to allow interaction through slash commands like /setup and /help.
               Other permissions included in the invite will be requested automatically. Avoid removing any essential permissions after installation.
-          ```
-3. 
+   ```
+3. Server Environment
+    * Avoid adding QueueByt to unmoderated servers or NSFW (Not Safe For Work) channels, as this may cause functionality restrictions or unexpected behavior.
+    * The server should ideally have a clear structure for roles and channels to facilitate queue and tournament management.
+4. Discord Client
+    * A Discord client capable of using slash commands (Discord desktop app, browser version, or mobile app with updated features).
+
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+Follow these steps to correctly install QueueByt in your Discord server:
+
+1. Prerequisite Checks
+    * Ensure you have the “Manage Server” permission in the Discord server where you want to install QueueByt.
+    * Confirm you can configure roles and channels as needed for bot setup.
+
+2. Add QueueByt to Your Server [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
    git clone https://github.com/MRBYT/QueueByt.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
+
 4. Enter your API in `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
