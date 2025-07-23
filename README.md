@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/MRBYT/QueueByt">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.JPG" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">QueueByt</h3>
@@ -24,7 +24,7 @@
     <a href="https://github.com/MRBYT/QueueByt"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/MRBYT/QueueByt">View Demo</a>
+    <a href="https://discord.com/oauth2/authorize?client_id=1396962875523858452&scope=applications.commands%20bot&permissions=536737213566">View Demo</a>
     &middot;
     <a href="https://github.com/MRBYT/QueueByt/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
