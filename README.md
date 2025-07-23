@@ -156,7 +156,6 @@ Follow these steps to correctly install QueueByt in your Discord server:
     ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -182,9 +181,7 @@ Adhering to these guidelines will help your community get the most out of QueueB
 
 10. Access Official Help - For technical difficulties or advanced setup, join QueueByt’s official support server or consult the [Documentation](https://github.com/MRBYT/QueueByt/blob/main/README.md)_
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -197,8 +194,6 @@ Adhering to these guidelines will help your community get the most out of QueueB
 See the [open issues](https://github.com/MRBYT/QueueByt/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -223,16 +218,12 @@ Don't forget to give the project a star! Thanks again!
   <img src="https://contrib.rocks/image?repo=MRBYT/QueueByt" alt="contrib.rocks image" />
 </a>
 
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the CC0 1.0 Universal. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -246,8 +237,6 @@ Your Name - [@MRBYT3](https://twitter.com/MRBYT3) - pratapbhanu389@gmail.com
 Project Link: [https://github.com/MRBYT/QueueByt](https://github.com/MRBYT/QueueByt)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
