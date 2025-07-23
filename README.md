@@ -227,7 +227,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the CC0 1.0 Universal. See [LICENSE][license-url] for more information.
+Distributed under the CC0 1.0 Universal. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
