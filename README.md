@@ -115,7 +115,7 @@ Overall, QueueByt serves as a scalable solution for competitive ecosystems aimin
     * You must have the “Manage Server” permission in the Discord server where you want to add QueueByt. This permission is necessary to authorize and configure the bot properly.
 2. Essential Bot Permissions
     * When adding QueueByt via the invite link, ensure you grant the following permissions:
-          ```sh
+          ```
               Manage Roles – to assign and manage user roles related to queues and tournaments.
               Send Messages – for the bot to communicate in designated channels.
               Use Slash Commands – to allow interaction through slash commands like /setup and /help.
