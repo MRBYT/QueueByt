@@ -1,12 +1,26 @@
 
 <a id="readme-top"></a>
 
-[![Contributors][contributors-shield]][https://github.com/MRBYT/QueueByt/graphs/contributors]
-[![Forks][forks-shield]][https://github.com/MRBYT/QueueByt/forks]
-[![Stargazers][stars-shield]][https://github.com/MRBYT/QueueByt/stargazers]
-[![Issues][issues-shield]][https://github.com/MRBYT/QueueByt/issues]
-[![project_license][license-shield]][https://github.com/MRBYT/QueueByt/blob/main/LICENSE]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/mrbyt3/]
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+[contributors-shield]: https://img.shields.io/github/contributors/MRBYT/QueueByt.svg
+[contributors-url]: https://github.com/MRBYT/QueueByt/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/MRBYT/QueueByt.svg
+[forks-url]: https://github.com/MRBYT/QueueByt/forks
+[stars-shield]: https://img.shields.io/github/stars/MRBYT/QueueByt.svg
+[stars-url]: https://github.com/MRBYT/QueueByt/stargazers
+[issues-shield]: https://img.shields.io/github/issues/MRBYT/QueueByt.svg
+[issues-url]: https://github.com/MRBYT/QueueByt/issues
+[license-shield]: https://img.shields.io/github/license/MRBYT/QueueByt.svg
+[license-url]: https://github.com/MRBYT/QueueByt/blob/main/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-mrbyt3-blue.svg?logo=linkedin
+[linkedin-url]: https://www.linkedin.com/in/mrbyt3/
+
 
 
 <!-- PROJECT LOGO -->
