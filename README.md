@@ -90,28 +90,13 @@ Overall, QueueByt serves as a scalable solution for competitive ecosystems aimin
 * [![Python][Python]][Python-url]
 * [![React][React]][React-url]
 * [![TypeScript][TypeScript]][TypeScript-url]
-* [![JavaScript ][Angular.io]][Angular-url]
-* [![Go][Svelte.dev]][Svelte-url]
-* [![discord.py][Laravel.com]][Laravel-url]
-* [![PostgreSQL][Bootstrap.com]][Bootstrap-url]
-* [![Celery][JQuery.com]][JQuery-url]
+* [![JavaScript ][JavaScript]][JavaScript-url]
+* [![Go][Go]][Go-url]
+* [![discord.py][discord.py]][discord.py-url]
+* [![PostgreSQL][PostgreSQL]][PostgreSQL-url]
+* [![Celery][Celery]][Celery-url]
 
-[Python]: https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white
-[Python-url]: https://www.python.org/
-[React]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[TypeScript]: https://img.shields.io/badge/typescript-35495E?style=for-the-badge&logo=typescript&logoColor=4FC08D
-[TypeScript-url]: https://www.typescriptlang.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -249,4 +234,19 @@ Project Link: [https://github.com/MRBYT/QueueByt](https://github.com/MRBYT/Queue
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/mrbyt3
 [QueueByt-screenshot]: /images/logo.png
-
+[Python]: https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white
+[Python-url]: https://www.python.org/
+[React]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[TypeScript]: https://img.shields.io/badge/typescript-35495E?style=for-the-badge&logo=typescript&logoColor=4FC08D
+[TypeScript-url]: https://www.typescriptlang.org/
+[JavaScript]: https://img.shields.io/badge/JavaScript-DD0031?style=for-the-badge&logo=javascript&logoColor=white
+[JavaScript-url]: https://www.javascript.com/
+[Go]: https://img.shields.io/badge/Go-4A4A55?style=for-the-badge&logo=go&logoColor=FF3E00
+[Go-url]: https://go.dev/
+[discord.py]: https://img.shields.io/badge/Discord.py-FF2D20?style=for-the-badge&logo=discord&logoColor=white
+[discord.py-url]: https://discordpy.readthedocs.io/en/stable/
+[PostgreSQL]: https://img.shields.io/badge/PostgreSQL-563D7C?style=for-the-badge&logo=postgresql&logoColor=white
+[PostgreSQL-url]: https://www.postgresql.org/
+[Celery]: https://img.shields.io/badge/Celery-0769AD?style=for-the-badge&logo=celery&logoColor=white
+[Celery-url]: https://docs.celeryq.dev/en/stable/#
