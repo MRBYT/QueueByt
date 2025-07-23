@@ -65,7 +65,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![QueueByt Screen Shot][product-screenshot]](https://example.com)
+[![QueueByt Screen Shot][QueueByt-screenshot]](https://example.com)
 
 Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `MRBYT`, `QueueByt`, `MRBYT3`, `mrbyt3`, `gmail`, `pratapbhanu389`, `QueueByt`, `Because waiting in scrim chat sucks.`, `CC0 1.0 Universal`
 
@@ -221,7 +221,7 @@ Project Link: [https://github.com/MRBYT/QueueByt](https://github.com/MRBYT/Queue
 [license-url]: https://github.com/MRBYT/QueueByt/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/mrbyt3
-[product-screenshot]: /images/logo.png
+[QueueByt-screenshot]: /images/logo.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
