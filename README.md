@@ -21,7 +21,7 @@
   <p align="center">
     Because waiting in scrim chat sucks.
     <br />
-    <a href="https://github.com/MRBYT/QueueByt"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/MRBYT/QueueByt/README.MD"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://discord.com/oauth2/authorize?client_id=1396962875523858452&scope=applications.commands%20bot&permissions=536737213566">View Demo</a>
