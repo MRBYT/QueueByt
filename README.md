@@ -135,7 +135,7 @@ Follow these steps to correctly install QueueByt in your Discord server:
     * Ensure you have the “Manage Server” permission in the Discord server where you want to install QueueByt.
     * Confirm you can configure roles and channels as needed for bot setup.
 
-2. Add QueueByt to Your Server [https://example.com](https://example.com)
+2. Add QueueByt to Your Server [https://QueueByt.com](https://discord.com/oauth2/authorize?client_id=1396962875523858452&scope=applications.commands%20bot&permissions=536737213566)
 2. Clone the repo
    ```sh
    git clone https://github.com/MRBYT/QueueByt.git
