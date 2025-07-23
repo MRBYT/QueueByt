@@ -118,11 +118,11 @@ Overall, QueueByt serves as a scalable solution for competitive ecosystems aimin
 2. Essential Bot Permissions
     * When adding QueueByt via the invite link, ensure you grant the following permissions:
    ```
-        Manage Roles – to assign and manage user roles related to queues and tournaments.
-        Send Messages – for the bot to communicate in designated channels.
-        Use Slash Commands – to allow interaction through slash commands like /setup and /help.
-        Other permissions included in the invite will be requested automatically. 
-        Avoid removing any essential permissions after installation.
+      - Manage Roles – to assign and manage user roles related to queues and tournaments.
+      - Send Messages – for the bot to communicate in designated channels.
+      - Use Slash Commands – to allow interaction through slash commands like /setup and /help.
+      - Other permissions included in the invite will be requested automatically. 
+      - Avoid removing any essential permissions after installation.
    ```
 3. Server Environment
     * Avoid adding QueueByt to unmoderated servers or NSFW (Not Safe For Work) channels, as this may cause functionality restrictions or unexpected behavior.
@@ -139,21 +139,49 @@ Follow these steps to correctly install QueueByt in your Discord server:
     * Confirm you can configure roles and channels as needed for bot setup.
 
 2. Add QueueByt to Your Server [https://QueueByt.com](https://discord.com/oauth2/authorize?client_id=1396962875523858452&scope=applications.commands%20bot&permissions=536737213566)
-
-
+    * When prompted, approve all required permissions, including:
+    ```
+      - Manage Roles
+      - Send Messages
+      - Use Slash Commands
+   ```
+    * Do not remove or modify these permissions after installation; this ensures full functionality.
+3. Configure QueueByt
+    * In a channel where the bot has access, type /setup and follow the prompts to:
+    ```
+      - Assign channels for queue and tournament activities
+      - Set up roles for participants and admins
+    ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Adhering to these guidelines will help your community get the most out of QueueByt, ensuring smooth operation and a positive experience for all participants.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+1.  Use Official QueueByt Only - Always use the authentic, unmodified version of QueueByt. Avoid running unauthorized, altered, or self-hosted copies to ensure reliability and access to support.
+
+2.  Appropriate Server Use - QueueByt should be operated in moderated, gaming-focused Discord servers. Do not add it to NSFW or unmoderated servers; misuse may result in restricted functionality or removal.
+
+3.  Maintain Required Permissions - Do not remove or downgrade key permissions after installation.
+
+4.  Role Hierarchy - Ensure QueueByt’s role is placed above any participant/admin roles it needs to manage. This is vital for assigning or modifying user roles within tournaments and scrims.
+
+5.  Channel Access - Only use QueueByt in channels where it has sufficient permissions to send messages, view messages, and manage queues.
+
+6.  Accurate Registration - Instruct teams and participants to register through official queue or tournament channels, following prompts provided by the bot.
+
+7.  Monitor Notifications - Advise all users to monitor server notifications for match pairings, scheduling updates, and registration deadlines.
+
+8.  Dispute Resolution - Direct any disputes, errors, or match issues to server moderators or use designated support channels.
+
+9.  Protect Sensitive Operations - Restrict administrative commands to trusted roles only. Never share sensitive permissions with untrusted users.
+
+10. Access Official Help - For technical difficulties or advanced setup, join QueueByt’s official support server or consult the [Documentation](https://github.com/MRBYT/QueueByt/blob/main/README.md)_
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ROADMAP -->
