@@ -87,14 +87,14 @@ Overall, QueueByt serves as a scalable solution for competitive ecosystems aimin
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
+* [![Python][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![TypeScript][Vue.js]][Vue-url]
+* [![JavaScript ][Angular.io]][Angular-url]
+* [![Go][Svelte.dev]][Svelte-url]
+* [![discord.py][Laravel.com]][Laravel-url]
+* [![PostgreSQL][Bootstrap.com]][Bootstrap-url]
+* [![Celery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
