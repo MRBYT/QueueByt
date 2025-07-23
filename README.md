@@ -77,6 +77,8 @@ QueueByt aims to empower competitive gaming communities by automating tedious co
 
 This project leverages a robust and modern tech stack to deliver high performance, scalability, and seamless user experience. The core technologies include:
 
+<!-- Currently a Comment Will need to remove post the project is completed and update the below accordingly
+
 * [![Python][Python]][Python-url]
 * [![React][React]][React-url]
 * [![TypeScript][TypeScript]][TypeScript-url]
@@ -85,7 +87,7 @@ This project leverages a robust and modern tech stack to deliver high performanc
 * [![discord.py][discord.py]][discord.py-url]
 * [![PostgreSQL][PostgreSQL]][PostgreSQL-url]
 * [![Celery][Celery]][Celery-url]
-
+-->
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
