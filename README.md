@@ -35,6 +35,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
+<!-- Currently a Comment Will need to remove post the project is completed and update the below accordingly
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -61,8 +62,9 @@
 </details>
 
 
-<!-- Currently a Comment Will need to remove post the project is completed and update the below accordingly
-<!-- ABOUT THE PROJECT -->
+
+
+
 ## About The Project
 
 [![QueueByt Screen Shot][QueueByt-screenshot]](https://example.com)
